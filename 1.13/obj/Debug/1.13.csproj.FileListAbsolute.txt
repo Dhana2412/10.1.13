@@ -1,0 +1,8 @@
+C:\Users\dhana\OneDrive\Documents\section10 assistec\1.13\1.13\bin\Debug\1.13.exe.config
+C:\Users\dhana\OneDrive\Documents\section10 assistec\1.13\1.13\bin\Debug\1.13.exe
+C:\Users\dhana\OneDrive\Documents\section10 assistec\1.13\1.13\bin\Debug\1.13.pdb
+C:\Users\dhana\OneDrive\Documents\section10 assistec\1.13\1.13\obj\Debug\1.13.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\section10 assistec\1.13\1.13\obj\Debug\1.13.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\section10 assistec\1.13\1.13\obj\Debug\1.13.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\section10 assistec\1.13\1.13\obj\Debug\1.13.exe
+C:\Users\dhana\OneDrive\Documents\section10 assistec\1.13\1.13\obj\Debug\1.13.pdb
